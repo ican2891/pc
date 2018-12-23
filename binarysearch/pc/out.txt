@@ -1,0 +1,5 @@
+456
+Elapsed time in nanoseconds:1000100 ns
+Elapsed time in microseconds : 1000 µs
+Elapsed time in milliseconds : 1 ms
+Elapsed time in seconds : 0 sec

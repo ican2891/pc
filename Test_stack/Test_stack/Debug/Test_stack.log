@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2039: 'unique_ptr': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stack(224): note: see declaration of 'std'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2065: 'unique_ptr': undeclared identifier
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2226: syntax error: unexpected type 'test'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2976: 'std::stack': too few template arguments
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stack(17): note: see declaration of 'std::stack'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2143: syntax error: missing ';' before '>'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(16): error C2059: syntax error: '>'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(19): error C2039: 'unique_ptr': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stack(224): note: see declaration of 'std'
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(19): error C2065: 'unique_ptr': undeclared identifier
+c:\users\ikumar\documents\visual studio 2015\projects\test_stack\test_stack\source.cpp(19): error C2226: syntax error: unexpected type 'test'

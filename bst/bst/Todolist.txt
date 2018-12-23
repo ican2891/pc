@@ -1,0 +1,25 @@
+//We have to get it working with templates
+//I have started to explore the features of the template.
+//we will write the concept
+//we could define a interface for the tree.
+* Which should be used in by many as such
+
+* We should check if the object should be intialized in the same way. 
+Can we enforce a policy on top of it.
+
+//21.10.2018
+------------
+
+*We should be focusing on the work.
+*We should record the work fininshed.
+* Which will be helpful 
+
+//All the traversal to be done with 1.recursion 2.stack 3.Comparison of pointers
+Let me finish the basics.
+
+//This should be learned on the run.
+
+28.10.2018
+----------s
+//Next time all the functions will be public
+//All the code should be done 

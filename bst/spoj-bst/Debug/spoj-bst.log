@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+c:\users\ikumar\documents\visual studio 2015\projects\bst\spoj-bst\source1.cpp(50): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+  spoj-bst.vcxproj -> C:\Users\ikumar\Documents\Visual Studio 2015\Projects\bst\Debug\spoj-bst.exe
+  spoj-bst.vcxproj -> C:\Users\ikumar\Documents\Visual Studio 2015\Projects\bst\Debug\spoj-bst.pdb (Partial PDB)
